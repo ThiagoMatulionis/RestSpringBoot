@@ -1,4 +1,4 @@
-package br.com.erudio;
+package br.com.erudio.controller;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
